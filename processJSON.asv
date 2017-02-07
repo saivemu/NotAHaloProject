@@ -1,0 +1,4 @@
+% Function to process Halo API Match Events files in .json format
+
+% function [deathEvents] = processJSON(fname)
+
